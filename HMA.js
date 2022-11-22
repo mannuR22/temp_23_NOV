@@ -1,4 +1,4 @@
-db.LAssessments.insertOne({
+db.LAssessments.insert({
     "assessmentId": "ff737aa8-7da3-42e0-9476-c1c5dc41e7a3",
     "pages": [
         {
